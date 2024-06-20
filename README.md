@@ -8,13 +8,13 @@ _-Real-Time Weather Data: Displays up-to-date weather information including temp
 _-City Search: Allows users to search for weather information by entering a city name._
 _-Responsive Design: Adapts to different screen sizes and devices for an optimal viewing experience_
 
-# Technologies Used
+### Technologies Used
 _•React: JavaScript library for building user interfaces._
 _•Tailwind CSS: Utility-first CSS framework for styling._
 _•WeatherAPI: API for fetching real-time weather data._
 _•JavaScript: Programming language for adding interactivity._
 
-# Installation and Setup
+### Installation and Setup
 To run this project locally, follow these steps:
 
 1. Clone the Repository
@@ -31,12 +31,12 @@ To run this project locally, follow these steps:
 
 `npm run dev`
 
-# Open in Browser
+### Open in Browser
 
 _Open your browser and cheak http://localhost: to view the application._
 
 
-# Project Structure_
+### Project Structure_
 
 •src/
 •components/: Contains the Weather component which handles the main functionality.
